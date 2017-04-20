@@ -9,6 +9,10 @@
   },
   "license": "MIT",
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "lodash": "^4.17.4",
+>>>>>>> 6c5e8b1785f7eb39639c38e15e202cf664459750
     "mustache": "^2.3.0",
     "workshopper-adventure": "^6.0.1",
     "workshopper-exercise": "^3.0.1"

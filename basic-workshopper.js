@@ -9,8 +9,13 @@ const basicWorkshopper = require('workshopper-adventure')({
 
 basicWorkshopper.addAll([
   'BASIC EXERCISE',
+<<<<<<< HEAD
   'INVERT SECTION',
   'INVERT SECTION 2'
+=======
+  'INSTALL MUSTACHE',
+  'VARIABLES'
+>>>>>>> 6c5e8b1785f7eb39639c38e15e202cf664459750
 ])
 
 module.exports = basicWorkshopper
