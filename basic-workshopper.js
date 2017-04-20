@@ -9,6 +9,7 @@ const basicWorkshopper = require('workshopper-adventure')({
 
 basicWorkshopper.addAll([
   'BASIC EXERCISE',
+  'INSTALL MUSTACHE',
   'VARIABLES'
 ])
 
