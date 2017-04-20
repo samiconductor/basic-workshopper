@@ -9,6 +9,8 @@ const basicWorkshopper = require('workshopper-adventure')({
 
 basicWorkshopper.addAll([
   'BASIC EXERCISE',
+  'INVERT SECTION',
+  'INVERT SECTION 2'
 ])
 
 module.exports = basicWorkshopper

@@ -9,6 +9,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "mustache": "^2.3.0",
     "workshopper-adventure": "^6.0.1",
     "workshopper-exercise": "^3.0.1"
   },
