@@ -9,6 +9,7 @@ const basicWorkshopper = require('workshopper-adventure')({
 
 basicWorkshopper.addAll([
   'BASIC EXERCISE',
+  'FALSE VALUES OR EMPTY LISTS'
 ])
 
 module.exports = basicWorkshopper
