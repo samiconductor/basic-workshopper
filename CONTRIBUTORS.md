@@ -1,3 +1,4 @@
 # Contributed Exercises
 
-- [Steven Gangstead](https://github.com/gangstead) → Variables
+- [Paul Byrne](https://github.com/pizzachip) → Install Mustache
+- [PSteven Gangstead](https://github.com/gangstead) → Variables
