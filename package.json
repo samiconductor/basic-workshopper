@@ -9,6 +9,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "faker": "^4.1.0",
     "lodash": "^4.17.4",
     "mustache": "^2.3.0",
     "workshopper-adventure": "^6.0.1",
