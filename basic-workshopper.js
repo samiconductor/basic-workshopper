@@ -12,6 +12,7 @@ basicWorkshopper.addAll([
     'INSTALL MUSTACHE',
     'VARIABLES',
     'SECTIONS'
-]);
+    'INVERT SECTION 2'
+])
 
 module.exports = basicWorkshopper;
